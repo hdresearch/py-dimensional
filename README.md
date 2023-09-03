@@ -1,5 +1,7 @@
 ### Please note this project is under heavy development. Expect sudden and breaking changes
 
+![High Dimensional Resarch loves accessibility!](static/card.jpg)
+
 # Introduction
 
 High Dimensional Research let agents use the internet. The internet was built for people, so HDR is creating tools to let agents browse, use, and learn from the internet. Our search engine and browser are powered by a global vector cache.
