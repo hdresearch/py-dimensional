@@ -4,13 +4,13 @@
 
 # Introduction
 
-High Dimensional Research lets agents use the internet. The internet was built for people, so HDR is creating tools to let agents browse, use, and learn from the internet. This is the client.
+High Dimensional Research lets agents use the internet. The internet was built for people, so HDR is creating tools to let agents browse, use, and learn from the internet. This is the just a client to make things easier for people building things.
 
 Why this rules:
 
 1. **Cheaper**: The internet has over 120 zettabytes of information on it. We only embed when pages change to save everyone a boat load of cash.
 2. **Faster**: Can't beat a cache.
-3. **Better**: Our embeddings are top notch since it is literally all we think about. We also leverage accessibility tooling and other neat tricks to isolate the important information of the internet.
+3. **Better**: Our embeddings are top notch since it is literally all we think about. We also leverage accessibility tooling and other neat tricks to isolate the information your agents are looking for.
 4. **Greener**: GPUs use a lot of power. We save your wallet and the planet by creating an information commons.
 
 If you have any questions, please email [Tynan Daly](mailto:tynan.daly@hdr.is)
