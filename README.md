@@ -8,7 +8,7 @@ High Dimensional Research lets agents use the internet. The internet was built f
 
 Why this rules:
 
-1. **Cheaper**: The internet has over 120 zettabytes of information on it. We only embedd when pages change to save everyone a boat load of cash.
+1. **Cheaper**: The internet has over 120 zettabytes of information on it. We only embed when pages change to save everyone a boat load of cash.
 2. **Faster**: Can't beat a cache.
 3. **Better**: Our embeddings are top notch since it is literally all we think about. We also leverage accessibility tooling and other neat tricks to isolate the important information of the internet.
 4. **Greener**: GPUs use a lot of power. We save your wallet and the planet by creating an information commons.
@@ -62,7 +62,7 @@ Give them poetry, financial documents, real time news, etc. Run rag. Summarize t
 
 > How do I singup? I dont see anything on your website.
 
-Join the waitlist and if you really need this, email [Tynan](mailto:tynan.daly@hdrl.is) to get bumped up.
+[Sign up](https://re8zt94ow1u.typeform.com/to/qo0GQ398)
 
 > Are my searches private?
 
