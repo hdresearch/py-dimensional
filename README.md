@@ -21,6 +21,10 @@ If you have any questions, please email [Tynan Daly](mailto:tynan.daly@hdr.is)
 
 No! HDR uses a new kind of vector index construction algorithm based on algebraic toplogy (we know, we can't believe an application actually exists either) to efficiently run vector search on the public internet. However, this means that we do not run search over your private documents. Go talk to our friends over at Pinecone, Milvus, or Chroma for that and let them know we sent you!
 
+> Wait this is a browser?
+
+Sort of. Static content is fetched from the vector cache and interactivity is done via headless browsers.
+
 > What can I do with this?
 
 Most people use the search function to help their agents navigate the internet and then switch over to the browser when the agents find what they're looking for.
