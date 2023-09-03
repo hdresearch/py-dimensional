@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "py-dimensional"
+version = "0.0.0"
+description = ""
+authors = ["Tynan Daly <tynan.s.daly@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "py_dimensional" }]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+httpx = "^0.24.1"
+pydantic = "^2.3.0"
+python-dotenv = "^1.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.1"
+openai = "^0.28.0"
+ipykernel = "^6.25.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
