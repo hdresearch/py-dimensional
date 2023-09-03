@@ -88,5 +88,6 @@ query = "Who is buying figma?"
 print(
     f"""
     Question: {query}
-    Answer: {rag_over_the_entire_internet(query)}"""
+    Answer: {rag_over_the_entire_internet(query)}
+"""
 )
