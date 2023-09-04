@@ -1,3 +1,31 @@
+[project]
+name = "py-dimensional"
+version = "0.0.1"
+description = "Internet tools for AI agents."
+authors = [{ name = "Tynan Daly", email = "tynan.daly@hdr.is" }]
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Natural Language :: English",
+    "Topic :: Communications :: Chat",
+    "Topic :: Internet",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+    "Topic :: Scientific/Engineering :: Human Machine Interfaces",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Indexing",
+    "Typing :: Typed",
+]
+
+[project.urls]
+"Home page" = "https://github.com/hdresearch/py-dimensional"
+"Bug Tracker" = "https://github.com/hdresearch/py-dimensional/issues"
+"Documentation" = "https://hdr.is/documented/api/v1"
+
+
 [tool.poetry]
 name = "py-dimensional"
 version = "0.0.0"
@@ -19,5 +47,5 @@ openai = "^0.28.0"
 ipykernel = "^6.25.1"
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"

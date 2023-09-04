@@ -9,7 +9,7 @@ setup(
         "pydantic",
         "python-dotenv",
     ],  # Add your dependencies here
-    # url='https://github.com/yourusername/YourPackageName',
+    url="https://github.com/hdresearch/py-dimensional",
     license="Apache License 2.0",
     author="Your Name",
     author_email="your.email@example.com",
